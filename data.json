@@ -4,27 +4,27 @@
     "score": 80,
     "icon": "./assets/images/icon-reaction.svg",
     "background": "#fff6f5",
-    "text":"#ff5555"
+    "text":"hsl(0, 100%, 67%)"
   },
   {
     "category": "Memory",
     "score": 92,
     "icon": "./assets/images/icon-memory.svg",
     "background": "#fffbf2",
-    "text":"#ffb21e"
+    "text":"hsl(39, 100%, 56%)"
   },
   {
     "category": "Verbal",
     "score": 61,
     "icon": "./assets/images/icon-verbal.svg",
     "background": "#f2fbfa",
-    "text": "#00bb8f"
+    "text": "hsl(166, 100%, 37%)"
   },
   {
     "category": "Visual",
     "score": 72,
     "icon": "./assets/images/icon-visual.svg",
     "background": "#f3f3fd",
-    "text": "#1125d6"
+    "text": "hsl(234, 85%, 45%)"
   }
 ]
