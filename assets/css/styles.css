@@ -27,7 +27,9 @@ main{
   color: #cad1ff;
   padding: 40px 54px 46px 54px;
   border-radius: 32px;
+  text-align: center;
 }
+
 .right-card{
     background-color: #ffffff;
     padding: 40px;
@@ -36,10 +38,48 @@ main{
     border-radius: 32px;
 }
 .left-card h1{
-    color: #ffffff;
+ font-size: 24px;
+  font-weight: 700;
+  color: #cad1ff;
+  margin-bottom: 32px;
+}
+.left-card p{
+    font-size: 18px;
+    font-weight: 500;
+    color: #cad1ff;
+    line-height: 1.4;
 }
 .right-card h2{
     color: #1f2331;
+}
+.left-card label{
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 14px;
+}
+.percentage-circle{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: linear-gradient(to bottom, #4d21c9, rgba(37, 33, 202, 0));
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 28px auto;
+}
+.percentage-circle span{
+    font-size: 72px;
+  font-weight: 800;
+  color: #ffffff;
+  line-height: 1;
+}
+.percentage-circle label{
+    font-size: 16px;
+  font-weight: 700;
+  color: #cad1ff;
+  margin-top: 4px
 }
 .attribution { 
     font-size: 11px; text-align: center; 
