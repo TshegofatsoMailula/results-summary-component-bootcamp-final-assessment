@@ -96,8 +96,8 @@ What started as an introduction to programming became a valuable learning experi
 
 Special thanks to:
 
-• Ms. Mahlatse Seriti – HTML & CSS
-• Mr. Sabelo Gumede – JavaScript
-• Mr. Frankie Mosehla – Web Hosting (Vercel)
+- Ms. Mahlatse Seriti – HTML & CSS
+- Mr. Sabelo Gumede – JavaScript
+- Mr. Frankie Mosehla – Web Hosting (Vercel)
 
 I appreciate the opportunity and the knowledge gained throughout the programme.
