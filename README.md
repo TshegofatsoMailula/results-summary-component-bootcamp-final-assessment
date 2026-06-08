@@ -6,7 +6,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -47,7 +47,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS (Flexbox, Media queries )
+- CSS (Flexbox)
 - Javascript
 - Responsive design
 
@@ -83,10 +83,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) - Helped me better understand semantic HTML and how to structure web pages for accessibility and readability.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) - Helped me learn how to build responsive layouts using Flexbox.
+- [JavaScript Async Fetch](https://www.w3schools.com/js/js_async_fetch.asp) - Taught me how to fetch data asynchronously from a JSON file and display it dynamically on the webpage.
+- [Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp) - Helped me understand responsive web design and how to use media queries to adapt layouts for different devices and screen sizes.
 
 ## Author
 
