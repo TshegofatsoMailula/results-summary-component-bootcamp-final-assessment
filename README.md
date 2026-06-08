@@ -51,25 +51,55 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Two key takeaways from working on this challenge were learning more about HTML5 semantic elements and strengthening my understanding of CSS3 concepts, particularly Flexbox and media queries.
 
-To see how you can add code snippets, see below:
+In previous projects, I often relied on div elements to structure sections of a webpage. As projects grew larger, the HTML became more difficult to read and maintain. Learning about HTML5 semantic elements showed me how they can improve code organisation, readability, and accessibility by clearly defining the purpose of different sections of a page.
+
+I also gained a deeper understanding of Flexbox. Instead of using tables for page layouts, I learned how to create responsive layouts with CSS Flexbox, which offers greater flexibility and control over the positioning of elements.
+
+For example, using semantic elements:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+<section>
+  <h1>This is a section</h1>
+</section>
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+instead of: 
+
+```html
+<div id="h1-section">
+  <h1>This is a section</h1>
+</div>
+```
+
+And using Flexbox for layout:
+
+```css
+.two-column-layout {
+  display: flex;
+  flex-direction: row;
+}
+```
+with:
+
+```html
+<section class="two-column-layout">
+  <div>Column 1</div>
+  <div>Column 2</div>
+</section>
+```
+
+instead of:
+
+```html
+<table>
+  <tr>
+    <td>Column 1</td>
+    <td>Column 1</td>
+  </tr>
+</table>
+```
 
 ### Continued development
 
