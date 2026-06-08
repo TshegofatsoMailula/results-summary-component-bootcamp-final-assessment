@@ -101,6 +101,11 @@ main{
     color: #cad1ff;
     margin-top: 4px
 }
+#results{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
 .category-card{
     display: flex;
     justify-content: space-between; 
@@ -129,7 +134,7 @@ main{
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1439px) {
 main{
     flex-direction: column;
 }
