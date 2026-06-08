@@ -5,7 +5,7 @@ html {
     height: 100%; 
 }
 body {
-    background-color: hsl(221, 100%, 96%);     
+    background-color: hsl(221, 100%, 96%) !important;     
     margin: 0;
     width: 100%;
     min-height: 100%;
@@ -25,11 +25,7 @@ main{
     padding: 40px 52px;
 }
 .left-card {
-    background: linear-gradient(
-        to bottom,
-        hsl(252, 100%, 67%),
-        hsl(241, 81%, 54%)
-    );
+    background: linear-gradient(to bottom,hsl(252, 100%, 67%), hsl(241, 81%, 54%)) !important;
     color: #cad1ff;
     padding: 40px 54px 46px 54px;
     border-radius: 32px;
@@ -37,7 +33,7 @@ main{
 }
 
 .right-card{
-    background-color: #ffffff;
+    background-color: #ffffff !important;
     padding: 40px;
     width: 100%;
     height: 100%;
@@ -48,7 +44,7 @@ main{
 }
 .continue-button{
     width: 100%;
-    background-color: hsl(224, 30%, 27%);
+    background-color: hsl(224, 30%, 27%) !important;
     color: #ffffff;
     font-size: 18px;
     font-weight: 700;
@@ -59,11 +55,7 @@ main{
 }
 .continue-button:hover{
     cursor: pointer;
-    background: linear-gradient(
-        to bottom,
-        hsl(252, 100%, 67%),
-        hsl(241, 81%, 54%)
-    );    
+    background: linear-gradient(to bottom,hsl(252, 100%, 67%),hsl(241, 81%, 54%)) !important;    
     outline: none;
 
 }
@@ -92,7 +84,7 @@ main{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background: linear-gradient(to bottom, #4d21c9, rgba(37, 33, 202, 0));
+    background: linear-gradient(to bottom, #4d21c9, rgba(37, 33, 202, 0)) !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -143,7 +135,7 @@ main{
     padding: 20px;
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 45%, 44%) !important; 
 }
 @media screen and (max-width: 1439px) {
 main{
