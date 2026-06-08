@@ -64,12 +64,12 @@ main{
     border-radius: 128px;
     text-align: center;
     margin-top: 8px;
+    outline: none;
 }
 .continue-button:hover{
     cursor: pointer;
     background: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%)) !important;    
     outline: none;
-
 }
 .left-card h1{
     font-size: 24px;
