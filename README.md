@@ -30,10 +30,6 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop version of the results summary component solution](./desktop-preview.jpg)
-![Mobile version of the results summary component solution](./mobile-preview.jpg)
-
-
 <table>
   <tr>
     <td><img src="./desktop-preview.jpg" alt="Desktop version" width="100%"></td>
