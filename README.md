@@ -16,8 +16,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -92,4 +90,14 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Shoutout to the team at mLab Southern Africa for an insightful 3-week CodeTribe Bootcamp.
+
+What started as an introduction to programming became a valuable learning experience, covering the different stages of web development through hands-on projects and practical guidance. Each phase was facilitated by experienced professionals who shared both technical knowledge and industry insights.
+
+Special thanks to:
+
+• Ms. Mahlatse Seriti – HTML & CSS
+• Mr. Sabelo Gumede – JavaScript
+• Mr. Frankie Mosehla – Web Hosting (Vercel)
+
+I appreciate the opportunity and the knowledge gained throughout the programme.
