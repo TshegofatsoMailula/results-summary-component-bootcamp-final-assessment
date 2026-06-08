@@ -57,7 +57,7 @@ In previous projects, I often relied on div elements to structure sections of a 
 
 I also gained a deeper understanding of Flexbox. Instead of using tables for page layouts, I learned how to create responsive layouts with CSS Flexbox, which offers greater flexibility and control over the positioning of elements.
 
-For example, using semantic elements:
+**For example, using semantic elements:**
 
 ```html
 <section>
@@ -65,7 +65,7 @@ For example, using semantic elements:
 </section>
 ```
 
-instead of: 
+**instead of:** 
 
 ```html
 <div id="h1-section">
@@ -73,7 +73,7 @@ instead of:
 </div>
 ```
 
-And using Flexbox for layout:
+**And using Flexbox for layout:**
 
 ```css
 .two-column-layout {
@@ -81,7 +81,7 @@ And using Flexbox for layout:
   flex-direction: row;
 }
 ```
-with:
+**with:**
 
 ```html
 <section class="two-column-layout">
@@ -90,7 +90,7 @@ with:
 </section>
 ```
 
-instead of:
+**instead of:**
 
 ```html
 <table>
