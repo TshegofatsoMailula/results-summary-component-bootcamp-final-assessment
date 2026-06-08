@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800');
+:root {
+    color-scheme: light !important;
+}
 *{
     box-sizing: border-box;
 }
@@ -6,8 +9,6 @@ html {
     height: 100%; 
     overflow-x: hidden;
     background-color: hsl(221, 100%, 96%) !important; 
-    color-scheme: light;    
-
 }
 body {
     background-color: hsl(221, 100%, 96%) !important;     
