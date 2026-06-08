@@ -65,8 +65,9 @@ main{
     text-align: center;
     margin-top: 8px;
     outline: none;
+    -webkit-tap-highlight-color: transparent;
 }
-.continue-button:hover{
+.continue-button:hover,.continue-button:active{
     cursor: pointer;
     background: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%)) !important;    
     outline: none;
