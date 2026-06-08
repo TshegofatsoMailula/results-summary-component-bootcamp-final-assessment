@@ -73,7 +73,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Before attending the bootcamp, I relied heavily on CSS frameworks to build interfaces without fully understanding many core CSS concepts. Through this project and the bootcamp, I developed a deeper appreciation for the importance of strong CSS fundamentals. Going forward, I plan to continue improving my CSS skills, focusing on layout techniques, responsiveness, and accessibility to create more user-friendly and maintainable websites.
 
 ### Useful resources
 
