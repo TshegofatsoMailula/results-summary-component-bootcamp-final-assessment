@@ -23,4 +23,10 @@ async function display_results()
     average = average / results.length;
     average = Math.round(average);
     document.getElementById("average").innerHTML = average;
+    setTimeout(delay_spinner,500);
+}
+function delay_spinner()
+{
+    document.getElementById("spinner").style.display = "none";
+    document.body.classList.remove("loading");
 }
