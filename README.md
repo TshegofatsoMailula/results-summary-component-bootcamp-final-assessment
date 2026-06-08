@@ -47,11 +47,9 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- CSS (Flexbox, Media queries )
+- Javascript
+- Responsive design
 
 ### What I learned
 
@@ -95,8 +93,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Website - [Tshegofatso Mailula](https://tshegomailula.app)
 - Frontend Mentor - [@TshegofatsoMailula](https://www.frontendmentor.io/profile/TshegofatsoMailula)
 
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
