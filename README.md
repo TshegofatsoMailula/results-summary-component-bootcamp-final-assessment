@@ -84,7 +84,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Tshegofatso Mailula](https://tshegomailula.app)
+- Website - [Tshegofatso Mailula](https://tshegomailula-portfolio.vercel.app)
 - Frontend Mentor - [@TshegofatsoMailula](https://www.frontendmentor.io/profile/TshegofatsoMailula)
 
 
