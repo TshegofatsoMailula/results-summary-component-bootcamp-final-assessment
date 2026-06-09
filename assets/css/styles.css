@@ -2,8 +2,7 @@
 
 *{
     box-sizing: border-box;
-    user-select: none;  
-    -webkit-user-select: none;
+ 
 }
 html {
     height: 100%; 
@@ -68,6 +67,8 @@ main{
     margin-top: 8px;
     outline: none;
     -webkit-tap-highlight-color: transparent;
+    user-select: none;  
+    -webkit-user-select: none;
    
 }
 .continue-button:hover,.continue-button:active{
