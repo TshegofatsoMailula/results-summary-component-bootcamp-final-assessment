@@ -28,6 +28,5 @@ async function display_results()
 function delay_spinner()
 {
     document.getElementById("spinner").style.display = "none";
-    document.getElementById("spinner").setAttribute("aria-hidden","true"); //Hide spinner from screen readers after loading
     document.body.classList.remove("loading");
 }
