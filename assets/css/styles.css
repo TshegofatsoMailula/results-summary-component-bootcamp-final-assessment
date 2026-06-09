@@ -65,7 +65,6 @@ main{
     border-radius: 128px;
     text-align: center;
     margin-top: 8px;
-    outline: none;
     -webkit-tap-highlight-color: transparent;
     user-select: none;  
     -webkit-user-select: none;
@@ -90,7 +89,7 @@ main{
 .right-card h2{
     color: hsl(224, 30%, 27%);
 }
-.left-card label{
+.left-card h2{
     font-size: 32px;
     font-weight: 700;
     color: hsl(0, 0%, 100%);
